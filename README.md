@@ -90,7 +90,8 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-**Sujal Jadhav** - Front end Developer & AIML Engineer
+**Sujal Jadhav** - Full Stack Developer & AI/ML Enthusiast
+
 
 - Portfolio: [https://sujalJadhav.dev](https://sujalJadhav.dev)
 - Email: [your.email@example.com](mailto:your.email@example.com)
